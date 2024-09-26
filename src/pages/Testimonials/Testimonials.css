@@ -1,0 +1,7 @@
+#testi-cont {
+  background-color: linear-gradient(
+    to right top,
+    rgba(32, 32, 107, 0.726),
+    rgba(49, 161, 49, 0.815)
+  );
+}
